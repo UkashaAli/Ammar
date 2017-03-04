@@ -1,0 +1,10 @@
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\obj\Debug\BusinessLayer.pdb
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\EntityFramework.xml
+c:\users\probattle\documents\visual studio 2015\Projects\ProBattle\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
